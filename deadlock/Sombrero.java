@@ -6,7 +6,7 @@ package es.upm.dit.adsw.hogwarts.deadlock;
  * @author diegomartin
  * @version 2020.03.20
  */
-public class Sombrero extends ObjetoMágico {
+public class Sombrero extends ObjetoMÃ¡gico {
 
 	public Sombrero(String nombre) {
 		super(nombre);

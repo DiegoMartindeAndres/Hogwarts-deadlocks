@@ -6,7 +6,7 @@ package es.upm.dit.adsw.hogwarts.deadlock;
  * @author diegomartin
  * @version 2020.03.20
  */
-public class Varita extends ObjetoMágico{
+public class Varita extends ObjetoMÃ¡gico{
 
 
 	/**

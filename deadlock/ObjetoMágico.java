@@ -1,12 +1,12 @@
 package es.upm.dit.adsw.hogwarts.deadlock;
 
-public class ObjetoMágico {
+public class ObjetoMÃ¡gico {
 
 	
 	private boolean ocupado;
 	private String nombre;
 
-	public ObjetoMágico(String nombre) {
+	public ObjetoMÃ¡gico(String nombre) {
 		this.ocupado = false;
 		this.nombre = nombre;
 	}
